@@ -1,0 +1,4 @@
+Host ec2-3-110-175-246.ap-south-1.compute.amazonaws.com
+    HostName ec2-3-110-175-246.ap-south-1.compute.amazonaws.com
+    IdentityFile C:\Users\1986382\eas-api-linter.pem
+    User ec2-user
